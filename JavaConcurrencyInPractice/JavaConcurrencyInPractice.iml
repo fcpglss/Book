@@ -7,5 +7,15 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Tomcat/apache-tomcat-8.0.36/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://C:/Tomcat/apache-tomcat-8.0.36/lib" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
